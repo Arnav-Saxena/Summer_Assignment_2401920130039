@@ -1,5 +1,4 @@
-import java.lang.Math.*;
-import java.util.Stack;
+import java.util.*;
 class MinStack 
 {
     Stack<int[]> stack = new Stack<>();

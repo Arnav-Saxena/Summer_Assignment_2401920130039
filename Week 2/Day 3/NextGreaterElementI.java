@@ -1,3 +1,4 @@
+import java.util.*;
 class NextGreaterElementI {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer> mp = new HashMap<>();
